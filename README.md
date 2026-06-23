@@ -1,38 +1,51 @@
-Hi, I'm Ananya 👋
+# Hi, I'm Ananya 👋
 
-💻 Frontend-Focused Full Stack Developer
+## 💻 Frontend-Focused Full Stack Developer
 
 I create modern web applications with a focus on clean design, responsive interfaces, and great user experiences.
 
 I enjoy building projects, learning new technologies, and turning ideas into real solutions.
 
+---
 
-🚀 What I'm Currently Working On
+## 🚀 What I'm Currently Working On
 
 - Building frontend projects with React
 - Improving my UI/UX skills
 - Creating full-stack web applications
 - Exploring AI and new technologies
 
-🛠️ Tools & Technologies I Use
+---
 
- Frontend
+## 🛠️ Tools & Technologies I Use
+
+### Frontend
 - HTML
 - CSS
 - JavaScript
 - React
 
-Backend
+### Backend
 - Node.js
 - PHP
-- flask
-- fastapi
+- Flask
+- FastAPI
+
+### Database
+- MySQL
+
+### Tools
+- Git & GitHub
+- VS Code
+- XAMPP
+
 ---
 
-📫 How To Reach Me
+## 📫 How To Reach Me
 
 - LinkedIn: YOUR_LINK
-- Email:ananyamengistu06@gmail.com
+- Email: ananyamengistu06@gmail.com
+
 ---
 
 ⭐ Thanks for visiting my profile!
