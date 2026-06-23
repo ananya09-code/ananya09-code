@@ -6,17 +6,6 @@ I create modern web applications with a focus on clean design, responsive interf
 
 I enjoy building projects, learning new technologies, and turning ideas into real solutions.
 
----
-
-## 🚀 What I'm Currently Working On
-
-- Building frontend projects with React
-- Improving my UI/UX skills
-- Creating full-stack web applications
-- Exploring AI and new technologies
-
----
-
 ## 🛠️ Tools & Technologies I Use
 
 ### Frontend
@@ -30,15 +19,6 @@ I enjoy building projects, learning new technologies, and turning ideas into rea
 - PHP
 - Flask
 - FastAPI
-
-### Database
-- MySQL
-
-### Tools
-- Git & GitHub
-- VS Code
-- XAMPP
-
 ---
 
 ## 📫 How To Reach Me
