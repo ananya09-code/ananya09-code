@@ -23,7 +23,7 @@ I enjoy building projects, learning new technologies, and turning ideas into rea
 
 ## 📫 How To Reach Me
 
-- LinkedIn:[ YOUR_LINK](https://www.linkedin.com/in/ananya-mangistu-445191348)
+- LinkedIn:contact(https://www.linkedin.com/in/ananya-mangistu-445191348)
 - Email: ananyamengistu06@gmail.com
 
 ---
